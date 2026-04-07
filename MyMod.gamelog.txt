@@ -3703,3 +3703,1427 @@ Pause event has been unregistered
 Pause event has been registered for this frame
 Pause event has been unregistered
 Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17504092)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000003996060, 17504092
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36728  (0.04MB)
+Process Chunk: AGRP   72  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51032  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172136  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394472  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1874728  (1.79MB)
+Process Chunk: VARI   178312  (0.17MB)
+Process Chunk: FUNC   102072  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1090792  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   4  (0.00MB)
+Preparing 440 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17504092)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 00000000039D9060, 17504092
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36728  (0.04MB)
+Process Chunk: AGRP   72  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51032  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172136  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1874728  (1.79MB)
+Process Chunk: VARI   178312  (0.17MB)
+Process Chunk: FUNC   102072  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1090744  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   4  (0.00MB)
+Preparing 440 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17506524)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 00000000038C7060, 17506524
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36728  (0.04MB)
+Process Chunk: AGRP   72  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876088  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091160  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   4  (0.00MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17506524)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000003938060, 17506524
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36728  (0.04MB)
+Process Chunk: AGRP   72  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876088  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091160  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   4  (0.00MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17506396)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000003A1B060, 17506396
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36728  (0.04MB)
+Process Chunk: AGRP   72  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876040  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091080  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   4  (0.00MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17506396)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000003A8C060, 17506396
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36728  (0.04MB)
+Process Chunk: AGRP   72  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876040  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091080  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   4  (0.00MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17506396)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 00000000039C1060, 17506396
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36728  (0.04MB)
+Process Chunk: AGRP   72  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876040  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091080  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   4  (0.00MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17970610)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 00000000039FA060, 17970610
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36776  (0.04MB)
+Process Chunk: AGRP   88  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876040  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091272  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   463962  (0.44MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17970738)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000003950060, 17970738
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36776  (0.04MB)
+Process Chunk: AGRP   88  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876104  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091336  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   463962  (0.44MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17970738)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000003A3F060, 17970738
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36776  (0.04MB)
+Process Chunk: AGRP   88  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876104  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091336  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   463962  (0.44MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17970738)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 00000000039EF060, 17970738
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36776  (0.04MB)
+Process Chunk: AGRP   88  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876104  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091336  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   463962  (0.44MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17970738)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 00000000038C7060, 17970738
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36776  (0.04MB)
+Process Chunk: AGRP   88  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876104  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091336  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   463962  (0.44MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17970738)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 00000000039D3060, 17970738
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36776  (0.04MB)
+Process Chunk: AGRP   88  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876104  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091336  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   463962  (0.44MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(17970738)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 00000000038DD060, 17970738
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36776  (0.04MB)
+Process Chunk: AGRP   88  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876104  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091336  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   463962  (0.44MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(18434698)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000003A81060, 18434698
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36776  (0.04MB)
+Process Chunk: AGRP   72  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876104  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091352  (1.04MB)
+Process Chunk: TXTR   11990472  (11.44MB)
+Process Chunk: AUDO   927922  (0.88MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(18434714)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 0000000003A20060, 18434714
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36776  (0.04MB)
+Process Chunk: AGRP   72  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876104  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091352  (1.04MB)
+Process Chunk: TXTR   11990488  (11.44MB)
+Process Chunk: AUDO   927922  (0.88MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
+Setting scheduler resolution to 1
+Create Error Form
+
+***************************************
+*     YoYo Games Runner v2023.11(1)[r160]    *
+***************************************	 
+RunnerLoadGame: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+#########################################################################
+####!!!!$$$$$$ pwd - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\
+#########################################################################
+RunnerLoadGame() - C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+YYG Game launching. Game file: C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Checking if INIFile exists at C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini
+INIFile C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff/options.ini Exists, loading....
+Reading File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp
+Loaded File C:\Users\lpole\OneDrive\Bureau\Games\Frickbears\Modded Game\FB3ModdingStuff\MyMod.temp(18434714)
+Get Resolution
+Get Header Information
+InitGMLFunctions
+HighScore..SavePrePend = C:\Users\lpole\AppData\Local\Frickbears3\
+Game..Math..Graphic..Action..File..Resource..Interaction..3D..Particle..Misc..Time..DS..Sound..Physics..Gamepad..Buffers..Networking..Shaders..YoYo..Multiplayer..Fini
+Code_Load()
+VARI_Load()
+ID_STRG
+Create Window
+AdjustWindowRectEx
+RegisterClassEx
+CreateWindowEx
+Init Graphics
+GR_D3D_Init()
+Enable DwmEnableMMCSS
+DirectX11: Using hardware device
+Background_InitTextures()
+Sprite_InitTextures()
+IO Init
+Process Messages
+Splash!
+Start Frame
+Part Create Textures
+Debug Init Remote Interface
+VM Init
+Create Load Form
+Do The Work
+LoadGameData()
+initialise everything! 00000000038EB060, 18434714
+Process Chunk: GEN8   384  (0.00MB)
+Process Chunk: OPTN   120  (0.00MB)
+Process Chunk: LANG   24  (0.00MB)
+Process Chunk: EXTN   872  (0.00MB)
+Process Chunk: SOND   36776  (0.04MB)
+Process Chunk: AGRP   72  (0.00MB)
+Process Chunk: SPRT   1394376  (1.33MB)
+Process Chunk: BGND   584  (0.00MB)
+Process Chunk: PATH   8  (0.00MB)
+Process Chunk: SCPT   51048  (0.05MB)
+Process Chunk: GLOB   120  (0.00MB)
+Process Chunk: SHDR   115416  (0.11MB)
+Process Chunk: FONT   520  (0.00MB)
+Process Chunk: TMLN   8  (0.00MB)
+Process Chunk: OBJT   172568  (0.16MB)
+Process Chunk: FEDS   56  (0.00MB)
+Process Chunk: ACRV   8  (0.00MB)
+Process Chunk: SEQN   8  (0.00MB)
+Process Chunk: TAGS   24  (0.00MB)
+Process Chunk: ROOM   394520  (0.38MB)
+Process Chunk: DAFL   8  (0.00MB)
+Process Chunk: EMBI   24  (0.00MB)
+Process Chunk: PSEM   8  (0.00MB)
+Process Chunk: PSYS   8  (0.00MB)
+Process Chunk: TPAG   95048  (0.09MB)
+Process Chunk: TGIN   5320  (0.01MB)
+Process Chunk: CODE   1876104  (1.79MB)
+Process Chunk: VARI   178440  (0.17MB)
+Process Chunk: FUNC   102152  (0.10MB)
+Process Chunk: FEAT   56  (0.00MB)
+Process Chunk: STRG   1091352  (1.04MB)
+Process Chunk: TXTR   11990488  (11.44MB)
+Process Chunk: AUDO   927922  (0.88MB)
+Preparing 441 objects:
+Trying to reset display as we're not in fullscreen
+Resizing swap chain...
+layer_set_visible() - could not find specified layer in current room
+layer_set_visible() - could not find specified layer in current room
+Unsetting previous scheduler resolution of 1
